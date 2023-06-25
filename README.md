@@ -13,4 +13,6 @@
 
 `git clone https://github.com/oceanxer/S800-linear-motion.git`
 
-`python linear_motion.py`
+`cd S800-linear-motion/`
+
+`python2 linear_motion.py`
